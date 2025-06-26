@@ -1,0 +1,7 @@
+{
+  "name": "GENNY",
+  "symbol": "GENNY",
+  "description": "Genny Token",
+  "image": "https://example.com/genny.png",  // Optional
+  "decimals": 6
+}
